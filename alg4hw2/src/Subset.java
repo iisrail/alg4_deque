@@ -6,7 +6,7 @@
 
 /**
  * @author Igal Israilevich
- *
+ * comment from web
  */
 public class Subset {
 
